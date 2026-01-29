@@ -5,10 +5,10 @@ This project demonstrates a **fully functional Retrieval-Augmented Generation (R
 
 This implementation was designed, configured, and validated end-to-end with a focus on **practical production-style architecture**, modularity, and clarity.
 
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/RAG-Pipeline-Using-n8n-Pinecone-HuggingFace-Groq/blob/ffb5ef99e7b367c1d146fed7ddf1dc38beba1114/Screenshot%20(415).png)
+![Alt text](https://github.com/Naveen15github/RAG-Pipeline-Using-n8n-Pinecone-HuggingFace-Groq/blob/ffb5ef99e7b367c1d146fed7ddf1dc38beba1114/Screenshot%20(416).png)
+![Alt text](https://github.com/Naveen15github/RAG-Pipeline-Using-n8n-Pinecone-HuggingFace-Groq/blob/ffb5ef99e7b367c1d146fed7ddf1dc38beba1114/Screenshot%20(414).png)
+![Alt text](https://github.com/Naveen15github/RAG-Pipeline-Using-n8n-Pinecone-HuggingFace-Groq/blob/ffb5ef99e7b367c1d146fed7ddf1dc38beba1114/Screenshot%20(417).png)
 
 
 ---
